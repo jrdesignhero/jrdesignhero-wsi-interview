@@ -1,4 +1,5 @@
-# ws-interview
+# wsi-interview
+Vue.js WSI landing page with quick buy variation on hero
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
